@@ -1,7 +1,7 @@
 # template
 =====================================================================================================
 
-<src="docs/pictures/jigsaw.jpg" height="352" width="480">
+![logo](docs/pictures/jigsaw.jpg)
 
 template is a template for creating new python libraries
 
