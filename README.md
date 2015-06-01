@@ -1,8 +1,7 @@
 # template
 template is a template for creating new python libraries
 
-<img align="right" src="docs/pictures/jigsaw.jpeg">
-[//]: # (height="575" width="1400")
+<img align="right" src="docs/pictures/jigsaw.jpeg" (height="352" width="480")>
 
 
 Links
