@@ -1,7 +1,7 @@
 # template
 =====================================================================================================
 
-<img align="right" src="docs/pictures/jigsaw.jpg" height="352" width="480">
+<img align="left" src="docs/pictures/jigsaw.jpg" height="352" width="480">
 
 template is a template for creating new python libraries
 
