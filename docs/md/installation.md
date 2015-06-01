@@ -8,13 +8,13 @@ Installation
 
 ### Install with pip 
 
-pip install from stash:
+pip install the bleeding edge version from github:
 
 	sudo pip install -e git+https://github.com/...
 
 
-### Installing from source
+### Install from source
 
-python install from setup.py
+install from setup.py
 
 	sudo python setup.py install
